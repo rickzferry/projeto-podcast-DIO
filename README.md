@@ -18,7 +18,7 @@ Criação de Podcast como parte de projeto para DIO
 
 - [ChatGPT](https://chat.openai.com/) - auxilio para geração do conteúdo
 - [Midjouney](https://www.midjourney.com/) - geraração de imagens
-- [Evenlabs](https://elevenlabs.io/) - Utilizado para ediçaõ do podcast e finalização 
+- [Evenlabs](https://elevenlabs.io/) - Utilizado para edição do podcast e finalização 
 
 ## Prompts
 
